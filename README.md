@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola, soy federico!👋</h1>
+<h1 align="center">¡Hi, I'm federico!👋</h1>
 
 <h4 align="center"> </h4>
 
 
-<h2 align="center">🧰🛠️ Herramientas que utilizo 🧰🛠️</h2> 
+<h2 align="center">🧰🛠️ Technologies and tools 🧰🛠️</h2> 
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
