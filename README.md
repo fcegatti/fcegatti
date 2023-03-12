@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- 🚀&nbsp;I'm a translator in transition to web development.\
+ 🚀&nbsp;I'm a Junior Fullstack Engineer with a background in translation and language teaching.\
 🎓&nbsp;I studied English Philology at Universitat de Barcelona.\
 💻&nbsp;I completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona.\
 📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.\
