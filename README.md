@@ -3,11 +3,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm a translator in transition to web development.\
-📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.\
-🗣️ &nbsp;I speak several languages, including Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek. 
+ 🚀&nbsp;I'm a translator in transition to web development.\
 🎓&nbsp;I studied English Philology at Universitat de Barcelona.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+💻&nbsp;I completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona.\
+📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.\
+🗣️ &nbsp;I speak several languages, including Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.\
 ✍️ &nbsp;In my free time, I play chess, I read and I also like creative writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!\
