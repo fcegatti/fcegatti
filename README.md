@@ -34,8 +34,24 @@
 
   ### 📫 &nbsp; How to reach me:
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=fcegatti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fcegatti's Stats">
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcegatti&theme=tokyonight&hide_border=true&currStreakNum=1&currStreakLabel=Current%20streak" alt="fcegatti's Streak">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <a href="https://www.linkedin.com/in/fcegatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:fcegatti@yahoo.es"><img alt="Yahoo" src="https://img.shields.io/badge/Yahoo-720e9e?style=flat-square&logo=yahoo&logoColor=white&color=720e9e" /></a> &nbsp;
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=fcegatti&theme=highcontrast&background=000000)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=fcegatti&theme=highcontrast&background=000000)](https://git.io/streak-stats) -->
