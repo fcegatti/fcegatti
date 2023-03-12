@@ -34,6 +34,9 @@
 
   ### 📫 &nbsp; How to reach me:
 
+<a href="https://www.linkedin.com/in/fcegatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:fcegatti@yahoo.es"><img alt="Yahoo" src="https://img.shields.io/badge/Yahoo-720e9e?style=flat-square&logo=yahoo&logoColor=white&color=720e9e" /></a> &nbsp;
+
 <div align="center">
   <table>
     <tr>
@@ -51,7 +54,5 @@
   </table>
 </div>
 
-<a href="https://www.linkedin.com/in/fcegatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:fcegatti@yahoo.es"><img alt="Yahoo" src="https://img.shields.io/badge/Yahoo-720e9e?style=flat-square&logo=yahoo&logoColor=white&color=720e9e" /></a> &nbsp;
   
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=fcegatti&theme=highcontrast&background=000000)](https://git.io/streak-stats) -->
