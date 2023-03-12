@@ -1,7 +1,22 @@
 <h1 align="center">¡Hi, I'm federico!👋</h1>
 
-<h4 align="center"> </h4>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💻 &nbsp;I'm a translator in transition to web development.\
+📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.\
+🗣️ &nbsp;I speak several languages, including Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek. 
+🎓&nbsp;I studied English Philology at Universitat de Barcelona.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+✍️ &nbsp;In my free time, I play chess, I read and I also like creative writing as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!\
+<!-- 📄 &nbsp;You can check my [Resume](https://) for more details about work experience. -->
+
+![version :12.03.2023](https://img.shields.io/badge/version-12.03.2023-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=fcegatti&color=red)&nbsp;
+[![GitHub fcegatti](https://img.shields.io/github/followers/fcegatti?label=follow&style=social)](https://github.com/fcegatti)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ### 🛠 &nbsp;Tech Stack
 
