@@ -8,9 +8,9 @@
 💻&nbsp;I completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona.\
 📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.\
 🗣️ &nbsp;I speak several languages, including Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.\
-✍️ &nbsp;In my free time, I play chess, I read and I also like creative writing as my hobbies.\
+✍️ &nbsp;In my free time, I play chess, I read and I also like creative writing as a hobby.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!
 <!-- 📄 &nbsp;You can check my [Resume](https://) for more details about work experience. -->
 
 ![version :12.03.2023](https://img.shields.io/badge/version-12.03.2023-informational) &nbsp;
