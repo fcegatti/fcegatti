@@ -13,6 +13,21 @@
 ✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
 <!-- 📄 &nbsp;You can check my [Resume](https://) for more details about work experience. -->
 
+
+```javascript
+const aboutMe = {
+  name: "federico gatti",
+  role: "fullstack developer with linguistic and communication skills",
+  data: { 
+      Linkedin: "www.linkedin.com/in/fcegatti",
+      GitHub: "https://github.com/fcegatti", 
+<!--       Resume: "https://", -->
+         
+  languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'e"],
+  techStack: ["HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL"],
+}
+```
+
 ![version :12.03.2023](https://img.shields.io/badge/version-12.03.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=fcegatti&color=red)&nbsp;
 [![GitHub fcegatti](https://img.shields.io/github/followers/fcegatti?label=follow&style=social)](https://github.com/fcegatti)&nbsp;
