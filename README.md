@@ -19,8 +19,8 @@ const aboutMe = {
   name: "federico gatti",
   role: "fullstack developer with linguistic and communication skills",
   data: { 
-      Linkedin: "www.linkedin.com/in/fcegatti",
-      GitHub: "https://github.com/fcegatti", 
+      linkedIn: "www.linkedin.com/in/fcegatti",
+      gitHub: "https://github.com/fcegatti", 
   },            
   languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'e"],
   techStack: ["HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL"],
