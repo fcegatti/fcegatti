@@ -21,11 +21,10 @@ const aboutMe = {
   data: { 
       Linkedin: "www.linkedin.com/in/fcegatti",
       GitHub: "https://github.com/fcegatti", 
-<!--       Resume: "https://", -->
-         
+  },            
   languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'e"],
   techStack: ["HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL"],
-}
+};
 ```
 
 ![version :12.03.2023](https://img.shields.io/badge/version-12.03.2023-informational) &nbsp;
