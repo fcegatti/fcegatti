@@ -22,7 +22,7 @@ const aboutMe = {
       linkedIn: "www.linkedin.com/in/fcegatti",
       gitHub: "https://github.com/fcegatti", 
   },            
-  languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'e"],
+  languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'ẽ"],
   techStack: ["HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL"],
 };
 ```
