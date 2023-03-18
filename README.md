@@ -1,4 +1,6 @@
-<h1 align="center">¡Hi, I'm federico!👋</h1>
+<h1 align="center">federico gatti</h1>
+<h4 align="center">full stack developer</h1>
+
 
 
 ### 👨🏻‍💻 &nbsp;About Me
