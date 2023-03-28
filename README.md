@@ -76,6 +76,3 @@ const aboutMe = {
     </tr>
   </table>
 </div>
-
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=fcegatti&theme=highcontrast&background=000000)](https://git.io/streak-stats)
