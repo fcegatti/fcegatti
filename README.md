@@ -77,4 +77,4 @@ const aboutMe = {
   </table>
 </div>
 
-
+<!-- Add a section on my projects, including brief descriptions and links to their repositories or deployment to give potential employers or collaborators a better idea of your skills and experience. -->
