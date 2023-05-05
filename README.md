@@ -3,7 +3,7 @@
 
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
 
 🚀&nbsp;I'm a Junior Fullstack Developer with a background in translation and language teaching.<br>
 🎓&nbsp;I studied English Philology at Universitat de Barcelona.<br>
@@ -34,7 +34,7 @@ const aboutMe = {
 [![GitHub fcegatti](https://img.shields.io/github/followers/fcegatti?label=follow&style=social)](https://github.com/fcegatti)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 🔧 &nbsp;Tech Stack
+### 🔧 &nbsp; Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -47,7 +47,7 @@ const aboutMe = {
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-### 🛠️ &nbsp;Tools
+### 🛠️ &nbsp; Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&logoColor=F05032)&nbsp;
@@ -55,7 +55,7 @@ const aboutMe = {
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 
 
-  ### 📫 &nbsp;Contact
+  ### 📫 &nbsp; Contact
 
 <a href="https://www.linkedin.com/in/fcegatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:fcegatti@yahoo.es"><img alt="Yahoo" src="https://img.shields.io/badge/Yahoo-720e9e?style=flat-square&logo=yahoo&logoColor=white&color=720e9e" /></a> &nbsp;
