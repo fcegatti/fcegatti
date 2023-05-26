@@ -45,7 +45,6 @@ const aboutMe = {
 ![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat-square&logo=styled-components&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-cfkVuelve-2023
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=FFFFFF)
 
 
