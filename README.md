@@ -1,5 +1,5 @@
 <h1 align="left">federico gatti</h1>
-<h3 align="center">junior full stack developer</h3>
+<h3 align="left">junior full stack developer</h3>
 
 
 
@@ -56,7 +56,7 @@ const aboutMe = {
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 
 
-  ### 📫 &nbsp;Contact
+  ### 📫 &nbsp;Contact 
 
 <a href="https://www.linkedin.com/in/fcegatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:fcegatti@yahoo.es"><img alt="Yahoo" src="https://img.shields.io/badge/Yahoo-720e9e?style=flat-square&logo=yahoo&logoColor=white&color=720e9e" /></a> &nbsp;
