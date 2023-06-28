@@ -1,4 +1,4 @@
-<h1 align="center">federico gatti</h1>
+<h1 align="left">federico gatti</h1>
 <h3 align="left">junior full stack developer</h3>
 
 
