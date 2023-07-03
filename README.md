@@ -11,6 +11,7 @@
 📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.<br>
 🗣️ &nbsp;I speak several languages, including Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.<br>
 ✍️ &nbsp;In my free time, I play chess, I read and I also like creative writing as a hobby.<br>
+📖 &nbsp;I'm currently writing a book.<br>
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
 ✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
 <!-- 📄 &nbsp;You can check my [Resume](https://) for more details about my working experience. -->
