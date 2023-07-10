@@ -26,7 +26,7 @@ const aboutMe = {
       gitHub: "https://github.com/fcegatti", 
   },            
   languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'ẽ"],
-  techStack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "PHP", "Laravel", "MySQL"],
+  techStack: ["HTML", "CSS", "JavaScript", "React", "Python", "Node.js", "PHP", "Laravel", "MySQL"],
 };
 ```
 
