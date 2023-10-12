@@ -42,6 +42,7 @@ const aboutMe = {
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp; 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat-square&logo=styled-components&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
