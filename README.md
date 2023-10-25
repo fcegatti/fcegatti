@@ -3,7 +3,7 @@
 
 
 
-### 👨🏻‍💻 &nbsp; About
+### 👨🏻‍💻 &nbsp; About me
 
 🚀&nbsp;I'm a Junior Fullstack Developer with a background in translation and language teaching.<br>
 🎓&nbsp;I studied English Philology at Universitat de Barcelona.<br>
