@@ -14,6 +14,9 @@
 📖 &nbsp;I'm currently writing a book.<br>
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
 ✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
+🌎&nbsp;I'm temporarily located in Buenos Aires, Argentina.<br>
+
+
 <!-- 📄 &nbsp;You can check my [Resume](https://) for more details about my working experience. -->
 
 
