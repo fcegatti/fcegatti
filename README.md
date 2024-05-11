@@ -24,11 +24,18 @@
 ```javascript
 const aboutMe = {
   name: "federico gatti",
-  role: "fullstack developer with linguistic and communication skills",
+  role: "cybersecurity analyst with linguistic and communication skills",
   data: { 
       linkedIn: "www.linkedin.com/in/fcegatti",
       gitHub: "https://github.com/fcegatti", 
   },            
+  cybersecuritySkills: {
+    concepts: ["Risk Management", "Threat Intelligence", "Incident Response", "Security Operations Center (SOC)"],
+    tools: ["Wireshark", "Nmap", "Splunk", "Security Information and Event Management (SIEM)"],
+    protocols: ["TCP/IP"],
+    frameworks; ["NIST Cybersecurity Framework", "MITRE ATT&CK Framework"],
+    securitySystems: ["Intrusion Detection Systems (IDS)", "Intrusion Prevention Systems (IPS)"],
+  },
   languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'ẽ"],
   techStack: ["HTML", "CSS", "JavaScript", "React", "Python", "Node.js", "PHP", "Laravel", "MySQL", "MongoDB"],
 };
