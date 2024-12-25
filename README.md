@@ -50,28 +50,39 @@ const aboutMe = {
 [![GitHub fcegatti](https://img.shields.io/github/followers/fcegatti?label=follow&style=social)](https://github.com/fcegatti)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 🔧 &nbsp;Tech Stack
+### 🔧 &nbsp;Tech Stack  
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp; 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat-square&logo=styled-components&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;  
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;  
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;  
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;  
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;  
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;  
 
+---
 
-### 🛠️ &nbsp;Tools
+### 🛠️ &nbsp;Tools  
 
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&logoColor=F05032)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&logoColor=F05032)&nbsp;  
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;  
+
+---
+
+### 🔐 &nbsp;Cybersecurity and Cloud Computing  
+
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;  
+![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap)&nbsp;  
+![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=splunk)&nbsp;  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;  
+
 
 
   ### 📫 &nbsp;Contact
