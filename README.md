@@ -3,19 +3,20 @@
 
 
 
-### 👨🏻‍💻 &nbsp; About
+### 👨🏻‍💻 &nbsp; About  
 
-🚀&nbsp;I'm a Junior Fullstack Developer with a background in translation and language teaching.<br>
-🎓&nbsp;I studied English Philology at Universitat de Barcelona.<br>
-💻&nbsp;I completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona.<br>
-📚 &nbsp;I'm passionate about learning new things and now I'm focusing on technologies and programming languages.<br>
-🗣️ &nbsp;I speak several languages, including Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.<br>
-✍️ &nbsp;In my free time, I play chess, I read and I also like creative writing as a hobby.<br>
-📖 &nbsp;I'm currently writing a book.<br>
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
-✉️ &nbsp;You can email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
-🌎&nbsp;I'm temporarily located in Buenos Aires, Argentina.<br>
-🛡️&nbsp;I'm currently taking a course to ger the Google cybersecurity certification.<br>
+🚀&nbsp;Junior Fullstack Developer with a background in translation and language teaching.<br>  
+🎓&nbsp;Studied English Philology at Universitat de Barcelona.<br>  
+💻&nbsp;Completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona.<br>  
+📚&nbsp;Passionate about learning new technologies and programming languages.<br>  
+☁️&nbsp;Expanding skills in cloud computing and preparing for the AWS Cloud Practitioner certification.<br>  
+🛡️&nbsp;Earned the Google Cybersecurity Certification.<br>
+🤖&nbsp;Familiar with the theoretical foundations of Artificial Intelligence and advanced user of AI tools.<br>
+🗣️&nbsp;Speak several languages: Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.<br>  
+♟️&nbsp;Enjoy playing chess and board games.<br>  
+✍️&nbsp;Creative writer currently working on a book.<br>  
+🌎&nbsp;Temporarily located in Buenos Aires, Argentina.<br>  
+✉️&nbsp;Email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
 
 
 <!-- 📄 &nbsp;You can check my [Resume](https://) for more details about my working experience. -->
@@ -23,20 +24,23 @@
 
 ```javascript
 const aboutMe = {
-  name: "federico gatti",
-  role: "cybersecurity analyst with linguistic and communication skills",
+  name: "Federico Gatti",
+  role: "Cybersecurity Analyst transitioning from translation and language teaching",
   data: { 
-      linkedIn: "www.linkedin.com/in/fcegatti",
-      gitHub: "https://github.com/fcegatti", 
-  },            
+    linkedIn: "https://www.linkedin.com/in/fcegatti",
+    gitHub: "https://github.com/fcegatti",
+  },
+  certifications: {
+    "Google Cybersecurity Certification": "achieved", "AWS Cloud Practitioner": "in progress",
+  },
   cybersecuritySkills: {
-    concepts: ["Risk Management", "Threat Intelligence", "Incident Response", "Security Operations Center (SOC)"],
+    concepts: ["Risk Management", "Threat Intelligence", "Incident Response", "Security Operations Center (SOC)", "Cloud Computing"],
     tools: ["Wireshark", "Nmap", "Splunk", "Security Information and Event Management (SIEM)"],
     protocols: ["TCP/IP"],
-    frameworks; ["NIST Cybersecurity Framework", "MITRE ATT&CK Framework"],
+    frameworks: ["NIST Cybersecurity Framework", "MITRE ATT&CK Framework"],
     securitySystems: ["Intrusion Detection Systems (IDS)", "Intrusion Prevention Systems (IPS)"],
   },
-  languages: ["Español", "English", "Català", "Français", "Italiano", "Ελλινικά", "Português", "Avañe'ẽ"],
+  languages: ["Español", "English", "Català", "Français", "Italiano", "Ελληνικά", "Português", "Avañe'ẽ"],
   techStack: ["HTML", "CSS", "JavaScript", "React", "Python", "Node.js", "PHP", "Laravel", "MySQL", "MongoDB"],
 };
 ```
