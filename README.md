@@ -13,7 +13,7 @@
 🛡️&nbsp;Earned the Google Cybersecurity Certification.<br>
 🤖&nbsp;Familiar with the theoretical foundations of Artificial Intelligence and advanced user of AI tools.<br>
 🗣️&nbsp;Speak several languages: Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.<br>  
-♟️&nbsp;Enjoy playing chess and board games.<br>  
+♟️&nbsp;Enjoy playing chess and board games, and currentle developing my own!.<br>  
 ✍️&nbsp;Creative writer currently working on a book.<br>  
 🌎&nbsp;Temporarily located in Buenos Aires, Argentina.<br>  
 ✉️&nbsp;Email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
