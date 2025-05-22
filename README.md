@@ -1,22 +1,23 @@
 <h1 align="left">federico gatti</h1>
-<h3 align="center">junior full stack developer</h3>
+<h3 align="center">indie app developer</h3>
 
 
 
 ### 👨🏻‍💻 &nbsp; About  
 
-🚀&nbsp;Junior Fullstack Developer with a background in translation and language teaching.<br>  
-🎓&nbsp;Studied English Philology at Universitat de Barcelona.<br>  
-💻&nbsp;Completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona.<br>  
-📚&nbsp;Passionate about learning new technologies and programming languages.<br>  
-☁️&nbsp;Expanding skills in cloud computing and preparing for the AWS Cloud Practitioner certification.<br>  
-🛡️&nbsp;Earned the Google Cybersecurity Certification.<br>
-🤖&nbsp;Familiar with the theoretical foundations of Artificial Intelligence and advanced user of AI tools.<br>
-🗣️&nbsp;Speak several languages: Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek.<br>  
-♟️&nbsp;Enjoy playing chess and board games, and currentle developing my own!.<br>  
-✍️&nbsp;Creative writer currently working on a book.<br>  
-🌎&nbsp;Temporarily located in Buenos Aires, Argentina.<br>  
-✉️&nbsp;Email me at fcegatti@yahoo.es. I'll try to respond as soon as possible!<br>
+- 🚀&nbsp;Junior Indie Web Developer with a background in translation and language teaching  
+- 🎓&nbsp;Studied English Philology at Universitat de Barcelona
+- 💻&nbsp;Completed a six-month, 850hs Fullstack Engineering bootcamp at Factoria F5 in Barcelona  
+- 📚&nbsp;Passionate about learning new technologies and programming languages
+- ☁️&nbsp;Expanding skills in cloud computing and preparing for the AWS Cloud Practitioner certification  
+- 🛡️&nbsp;Earned the Google Cybersecurity Certification
+- 🤖&nbsp;Familiar with the theoretical foundations of Artificial Intelligence and advanced user of AI tools
+- 🗣️&nbsp;Speak several languages: Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek  
+- ♟️&nbsp;Enjoy playing chess and board games, and currentle developing my own games! 
+- ✍️&nbsp;Creative writer currently working on a book
+- 🌎&nbsp;Temporarily located in Buenos Aires, Argentina 
+
+✉️&nbsp;Email me at tr4p0.dev@gmail.com. I'll try to respond as soon as possible!<br>
 
 
 <!-- 📄 &nbsp;You can check my [Resume](https://) for more details about my working experience. -->
@@ -25,7 +26,8 @@
 ```javascript
 const aboutMe = {
   name: "Federico Gatti",
-  role: "Cybersecurity Analyst transitioning from translation and language teaching",
+  alias: "tr4po.dev"
+  role: "indie web developer",
   data: { 
     linkedIn: "https://www.linkedin.com/in/fcegatti",
     gitHub: "https://github.com/fcegatti",
@@ -33,19 +35,12 @@ const aboutMe = {
   certifications: {
     "Google Cybersecurity Certification": "achieved", "AWS Cloud Practitioner": "in progress",
   },
-  cybersecuritySkills: {
-    concepts: ["Risk Management", "Threat Intelligence", "Incident Response", "Security Operations Center (SOC)", "Cloud Computing"],
-    tools: ["Wireshark", "Nmap", "Splunk", "Security Information and Event Management (SIEM)"],
-    protocols: ["TCP/IP"],
-    frameworks: ["NIST Cybersecurity Framework", "MITRE ATT&CK Framework"],
-    securitySystems: ["Intrusion Detection Systems (IDS)", "Intrusion Prevention Systems (IPS)"],
-  },
   languages: ["Español", "English", "Català", "Français", "Italiano", "Ελληνικά", "Português", "Avañe'ẽ"],
   techStack: ["HTML", "CSS", "JavaScript", "React", "Python", "Node.js", "PHP", "Laravel", "MySQL", "MongoDB"],
 };
 ```
 
-![version :12.03.2023](https://img.shields.io/badge/version-12.03.2023-informational) &nbsp;
+![version :05.22.2025](https://img.shields.io/badge/version-12.03.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=fcegatti&color=red)&nbsp;
 [![GitHub fcegatti](https://img.shields.io/github/followers/fcegatti?label=follow&style=social)](https://github.com/fcegatti)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -87,7 +82,7 @@ const aboutMe = {
 
   ### 📫 &nbsp;Contact
 <a href="https://www.linkedin.com/in/fcegatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:fcegatti@yahoo.es"><img alt="Yahoo" src="https://img.shields.io/badge/Yahoo-720e9e?style=flat-square&logo=yahoo&logoColor=white&color=720e9e" /></a> &nbsp;
+<a href="mailto:tr4p0.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&color=EA4335" /></a> &nbsp;
 
 <div align="center">
   <table>
