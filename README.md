@@ -55,8 +55,7 @@ const aboutMe = {
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;  
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;  
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;  
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;   
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;  
 
