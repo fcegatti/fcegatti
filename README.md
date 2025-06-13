@@ -15,7 +15,7 @@
 - 🗣️&nbsp;Speak several languages: Spanish, English, Catalan, French, Italian, and a bit of Portuguese and Greek  
 - ♟️&nbsp;Enjoy playing chess and board games, and currentle developing my own games! 
 - ✍️&nbsp;Creative writer currently working on a book
-- 🌎&nbsp;Temporarily located in Buenos Aires, Argentina 
+- 🌎&nbsp;Temporarily in Buenos Aires, Argentina 
 
 ✉️&nbsp;Email me at tr4p0.dev@gmail.com. I'll try to respond as soon as possible!<br>
 
